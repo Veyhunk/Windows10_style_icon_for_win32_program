@@ -1,0 +1,1 @@
+start Opera.lnk

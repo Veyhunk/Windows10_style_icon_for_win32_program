@@ -1,0 +1,1 @@
+start firefox.lnk

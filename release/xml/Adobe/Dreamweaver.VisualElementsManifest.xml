@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <VisualElements 
+     ForegroundText="light" 
+     BackgroundColor="#0c1800" 
+     ShowNameOnSquare150x150Logo="off" 
+     Square150x150Logo="Dreamweaver.png" 
+     Square70x70Logo="Dreamweaver.png" 
+  ></VisualElements>
+</Application>

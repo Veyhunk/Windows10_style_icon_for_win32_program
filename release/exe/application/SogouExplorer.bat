@@ -1,0 +1,1 @@
+"C:\Users\Veyhunk\AppData\Local\SogouExplorer\SogouExplorer.exe"

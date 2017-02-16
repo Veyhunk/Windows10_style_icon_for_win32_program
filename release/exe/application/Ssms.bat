@@ -1,0 +1,1 @@
+start Ssms.lnk

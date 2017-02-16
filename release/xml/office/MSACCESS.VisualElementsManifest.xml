@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <VisualElements ForegroundText="light" BackgroundColor="#A13638" ShowNameOnSquare150x150Logo="on" Square150x150Logo="LogoImages\MSACCESSLogo.png" Square70x70Logo="LogoImages\MSACCESSLogoSmall.png"></VisualElements>
+</Application>

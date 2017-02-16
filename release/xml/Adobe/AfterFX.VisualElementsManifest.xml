@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <VisualElements 
+     ForegroundText="light" 
+     BackgroundColor="#28103f" 
+     ShowNameOnSquare150x150Logo="off" 
+     Square150x150Logo="AfterFX.png" 
+     Square70x70Logo="AfterFX.png" 
+  ></VisualElements>
+</Application>

@@ -1,0 +1,1 @@
+start Word.lnk

@@ -1,0 +1,1 @@
+"C:\Program Files\Genymobile\Genymotion\genymotion.exe"

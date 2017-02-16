@@ -1,0 +1,1 @@
+"D:\Program Files (x86)\Tencent\WeChat\WeChat.exe"

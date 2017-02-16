@@ -1,0 +1,1 @@
+"C:\Users\Veyhunk\AppData\Local\Vivaldi\Application\vivaldi.exe"
