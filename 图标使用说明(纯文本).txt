@@ -1,14 +1,4 @@
-# Windows10_style_icon_for_win32_program
-To solve the Win32 program icon in the windows10 start menu style inconsistencies and too old.
-
-(解决win32程序的图标在windows10开始菜单中风格不一致以及过于陈旧的情况。)
-
-
-【更新说明】17年2月17日
-项目全面迁移至github
-增加bat转exe文件工具(tools文件夹内)
-
-【更新说明】10月23日
+﻿【更新说明】10月23日
 全部图标开启透明模式
 嫌弃以前颜色杂乱就用这一个版本吧
  
